@@ -1,0 +1,189 @@
+[CreateLightweightFrame_Bsc X2TechTemplate]
+DisplayName="Create Basic Lightweight Frame"
+Summary="Based on our new weapons design, it should be possible to improve our stock of basic weapon upgrades."
+
+[CreateBeddedStock_Bsc X2TechTemplate]
+DisplayName="Create Basic Bedded stock"
+Summary="Based on our new weapons design, it should be possible to improve our stock of basic weapon upgrades."
+
+[CreateScope_Bsc X2TechTemplate]
+DisplayName="Create Basic Scope"
+Summary="Based on our new weapons design, it should be possible to improve our stock of basic weapon upgrades."
+
+[CreateReflexSight_Bsc X2TechTemplate]
+DisplayName="Create Basic Reflex Sight"
+Summary="Based on our new weapons design, it should be possible to improve our stock of basic weapon upgrades."
+
+[CreateLaserSight_Bsc X2TechTemplate]
+DisplayName="Create Basic Laser Sight"
+Summary="Based on our new weapons design, it should be possible to improve our stock of basic weapon upgrades."
+
+[CreateSuppressor_Bsc X2TechTemplate]
+DisplayName="Create Basic Suppressor"
+Summary="Based on our new weapons design, it should be possible to improve our stock of basic weapon upgrades."
+
+[CreateBipod_Bsc X2TechTemplate]
+DisplayName="Create Basic Bipod"
+Summary="Based on our new weapons design, it should be possible to improve our stock of basic weapon upgrades."
+
+[CreateForegrip_Bsc X2TechTemplate]
+DisplayName="Create Basic Foregrip"
+Summary="Based on our new weapons design, it should be possible to improve our stock of basic weapon upgrades."
+
+[CreateSpeedloader_Bsc X2TechTemplate]
+DisplayName="Create Basic Speedloader"
+Summary="Based on our new weapons design, it should be possible to improve our stock of basic weapon upgrades."
+
+[CreateExpandedmag_Bsc X2TechTemplate]
+DisplayName="Create Basic Expanded mag"
+Summary="Based on our new weapons design, it should be possible to improve our stock of basic weapon upgrades."
+
+
+
+;* Lightweight Frame
+[RetrofitLightweightFrame_BscToAdv X2TechTemplate]
+DisplayName="Retrofit Basic Lightweight Frame"
+Summary="Based on our newly developped magnetic weapons design, it should be possible to improve our stock of basic weapon upgrades."
+
+[RetrofitLightweightFrame_BscToSup X2TechTemplate]
+DisplayName="Retrofit Basic Lightweight Frame"
+Summary="Based on our newly developped magnetic weapons design, it should be possible to improve our stock of basic weapon upgrades."
+
+[RetrofitLightweightFrame_AdvToSup X2TechTemplate]
+DisplayName="Retrofit Advanced Lightweight Frame"
+Summary="Enhancing our existing weapon upgrades with Elerium-based technologies should greatly increase their stability and performance."
+
+;* Bedded Stock
+[RetrofitBeddedStock_BscToAdv X2TechTemplate]
+DisplayName="Retrofit Basic Bedded Stock"
+Summary="Based on our newly developped magnetic weapons design, it should be possible to improve our stock of basic weapon upgrades."
+
+[RetrofitBeddedStock_BscToSup X2TechTemplate]
+DisplayName="Retrofit Basic Bedded Stock"
+Summary="Based on our newly developped magnetic weapons design, it should be possible to improve our stock of basic weapon upgrades."
+
+[RetrofitBeddedStock_AdvToSup X2TechTemplate]
+DisplayName="Retrofit Advanced Bedded Stock"
+Summary="Enhancing our existing weapon upgrades with Elerium-based technologies should greatly increase their stability and performance."
+
+;* Scope
+[RetrofitScope_BscToAdv X2TechTemplate]
+DisplayName="Retrofit Basic Scope"
+Summary="Based on our newly developped magnetic weapons design, it should be possible to improve our stock of basic weapon upgrades."
+
+[RetrofitScope_BscToSup X2TechTemplate]
+DisplayName="Retrofit Basic Scope"
+Summary="Based on our newly developped magnetic weapons design, it should be possible to improve our stock of basic weapon upgrades."
+
+[RetrofitScope_AdvToSup X2TechTemplate]
+DisplayName="Retrofit Advanced Scope"
+Summary="Enhancing our existing weapon upgrades with Elerium-based technologies should greatly increase their stability and performance."
+
+;* Reflex Sight
+[RetrofitReflexSight_BscToAdv X2TechTemplate]
+DisplayName="Retrofit Basic Reflex Sight"
+Summary="Based on our newly developped magnetic weapons design, it should be possible to improve our stock of basic weapon upgrades."
+
+[RetrofitReflexSight_BscToSup X2TechTemplate]
+DisplayName="Retrofit Basic Reflex Sight"
+Summary="Based on our newly developped magnetic weapons design, it should be possible to improve our stock of basic weapon upgrades."
+
+[RetrofitReflexSight_AdvToSup X2TechTemplate]
+DisplayName="Retrofit Advanced Reflex Sight"
+Summary="Enhancing our existing weapon upgrades with Elerium-based technologies should greatly increase their stability and performance."
+
+;* Laser Sight
+[RetrofitLaserSight_BscToAdv X2TechTemplate]
+DisplayName="Retrofit Basic Laser Sight"
+Summary="Based on our newly developped magnetic weapons design, it should be possible to improve our stock of basic weapon upgrades."
+
+[RetrofitLaserSight_BscToSup X2TechTemplate]
+DisplayName="Retrofit Basic Laser Sight"
+Summary="Based on our newly developped magnetic weapons design, it should be possible to improve our stock of basic weapon upgrades."
+
+[RetrofitLaserSight_AdvToSup X2TechTemplate]
+DisplayName="Retrofit Advanced Laser Sight"
+Summary="Enhancing our existing weapon upgrades with Elerium-based technologies should greatly increase their stability and performance."
+
+;* Bipod
+[RetrofitBipod_BscToAdv X2TechTemplate]
+DisplayName="Retrofit Basic Bipod"
+Summary="Based on our newly developped magnetic weapons design, it should be possible to improve our stock of basic weapon upgrades."
+
+[RetrofitBipod_BscToSup X2TechTemplate]
+DisplayName="Retrofit Basic Bipod"
+Summary="Based on our newly developped magnetic weapons design, it should be possible to improve our stock of basic weapon upgrades."
+
+[RetrofitBipod_AdvToSup X2TechTemplate]
+DisplayName="Retrofit Advanced Bipod"
+Summary="Enhancing our existing weapon upgrades with Elerium-based technologies should greatly increase their stability and performance."
+
+;* Suppressor
+[RetrofitSuppressor_BscToAdv X2TechTemplate]
+DisplayName="Retrofit Basic Suppressor"
+Summary="Based on our newly developped magnetic weapons design, it should be possible to improve our stock of basic weapon upgrades."
+
+[RetrofitSuppressor_BscToSup X2TechTemplate]
+DisplayName="Retrofit Basic Suppressor"
+Summary="Based on our newly developped magnetic weapons design, it should be possible to improve our stock of basic weapon upgrades."
+
+[RetrofitSuppressor_AdvToSup X2TechTemplate]
+DisplayName="Retrofit Advanced Suppressor"
+Summary="Enhancing our existing weapon upgrades with Elerium-based technologies should greatly increase their stability and performance."
+
+;* Foregrip
+[RetrofitForegrip_BscToAdv X2TechTemplate]
+DisplayName="Retrofit Basic Foregrip"
+Summary="Based on our newly developped magnetic weapons design, it should be possible to improve our stock of basic weapon upgrades."
+
+[RetrofitForegrip_BscToSup X2TechTemplate]
+DisplayName="Retrofit Basic Foregrip"
+Summary="Based on our newly developped magnetic weapons design, it should be possible to improve our stock of basic weapon upgrades."
+
+[RetrofitForegrip_AdvToSup X2TechTemplate]
+DisplayName="Retrofit Advanced Foregrip"
+Summary="Enhancing our existing weapon upgrades with Elerium-based technologies should greatly increase their stability and performance."
+
+;* Speedloader
+[RetrofitSpeedloader_BscToAdv X2TechTemplate]
+DisplayName="Retrofit Basic Speedloader"
+Summary="Based on our newly developped magnetic weapons design, it should be possible to improve our stock of basic weapon upgrades."
+
+[RetrofitSpeedloader_BscToSup X2TechTemplate]
+DisplayName="Retrofit Basic Speedloader"
+Summary="Based on our newly developped magnetic weapons design, it should be possible to improve our stock of basic weapon upgrades."
+
+[RetrofitSpeedloader_AdvToSup X2TechTemplate]
+DisplayName="Retrofit Advanced Speedloader"
+Summary="Enhancing our existing weapon upgrades with Elerium-based technologies should greatly increase their stability and performance."
+
+;* Expanded Magazine
+[RetrofitExpandedmag_BscToAdv X2TechTemplate]
+DisplayName="Retrofit Basic Expanded Magazine"
+Summary="Based on our newly developped magnetic weapons design, it should be possible to improve our stock of basic weapon upgrades."
+
+[RetrofitExpandedmag_BscToSup X2TechTemplate]
+DisplayName="Retrofit Basic Expanded Magazine"
+Summary="Based on our newly developped magnetic weapons design, it should be possible to improve our stock of basic weapon upgrades."
+
+[RetrofitExpandedmag_AdvToSup X2TechTemplate]
+DisplayName="Retrofit Advanced Expanded Magazine"
+Summary="Enhancing our existing weapon upgrades with Elerium-based technologies should greatly increase their stability and performance."
+
+;* Wild Cartridges
+[RetrofitWildcatCartridges_BscToAdv X2TechTemplate]
+DisplayName="Retrofit Basic Wild Cartridges"
+Summary="Based on our newly developped magnetic weapons design, it should be possible to improve our stock of basic weapon upgrades."
+
+[RetrofitWildcatCartridges_BscToSup X2TechTemplate]
+DisplayName="Retrofit Basic Wild Cartridges"
+Summary="Based on our newly developped magnetic weapons design, it should be possible to improve our stock of basic weapon upgrades."
+
+[RetrofitWildcatCartridges_AdvToSup X2TechTemplate]
+DisplayName="Retrofit Advanced Wild Cartridges"
+Summary="Enhancing our existing weapon upgrades with Elerium-based technologies should greatly increase their stability and performance."
+
+;* Experimental Magazine
+[RetrofitExperimentalMagazine X2TechTemplate]
+DisplayName="Retrofit Experimental Magazine"
+Summary="Based on our newly developped magnetic weapons design, it should be possible to improve our stock of basic weapon upgrades."
